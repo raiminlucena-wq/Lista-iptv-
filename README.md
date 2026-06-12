@@ -1,7 +1,7 @@
 # Lista-iptv-
 Lista iotv
 
-git clonehttps://github.com/raiminlucena-wq/Lista-iptv-
+git clone https://github.com/raiminlucena-wq/Lista-iptv-
 
 cd Lista-iptv-
 
